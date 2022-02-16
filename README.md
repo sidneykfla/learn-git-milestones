@@ -267,7 +267,7 @@ Item # | Description | Completed
 1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji | :/
 2b | Link to `commit #2 from Github Desktop` | [link to commit 2](https://github.com/sidneykfla/learn-git-milestones/commit/c3292e10502508dbeb1996498f069b1b45386ce9)
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/sidneyknowles/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
