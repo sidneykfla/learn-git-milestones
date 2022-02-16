@@ -270,7 +270,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/sidneyknowles/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/sidneykfla/learn-git-milestones/commit/133ec2ae173b10d26763a88560425674f33d60d7)
 2e | 3rd Favorite emoji | :|
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | https://github.com/sidneykfla/learn-git-milestones/commit/c1f2d0d9faa4e9bc072cac4987e81d06020382b4
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
